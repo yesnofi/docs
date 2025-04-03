@@ -11,6 +11,7 @@
 * [创建问题](ru-he-shi-yong/chuang-jian-wen-ti.md)
 * [问题市场](ru-he-shi-yong/wen-ti-shi-chang.md)
 * [问题详情与投注](ru-he-shi-yong/wen-ti-xiang-qing-yu-tou-zhu.md)
+* [份额NFT](ru-he-shi-yong/fenenft.md)
 * [个人中心](ru-he-shi-yong/ge-ren-zhong-xin.md)
 
 ## FAQs
