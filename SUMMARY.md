@@ -10,7 +10,7 @@
 * [🔑 登录与钱包签名](how-to-use/login.md)
 * [✍️ 创建问题](how-to-use/create.md)
 * [📊 问题市场](how-to-use/market.md)
-* [💰 问题详情与投注](how-to-use/wen-ti-xiang-qing-yu-tou-zhu.md)
+* [💰 问题详情与投注](how-to-use/question.md)
 * [🎟️ 份额](how-to-use/ticket.md)
 * [😄 个人中心](how-to-use/user-center.md)
 
