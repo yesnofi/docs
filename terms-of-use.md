@@ -1,145 +1,145 @@
-# 📖 使用条款
+# 📖 Terms of Use
 
-欢迎使用 Yesnofi！本使用条款（以下简称“条款”）是您（“用户”或“您”）与 Yesnofi 平台（“平台”或“我们”）之间的法律协议，规定了您在使用 Yesnofi 去中心化二元预测市场平台时的权利和义务。请在使用 Yesnofi 之前仔细阅读本条款。如果您不同意本条款的任何内容，请勿使用本平台。
+Welcome to Yesnofi! These Terms of Use (hereinafter referred to as “Terms”) form a legal agreement between you (“User” or “You”) and the Yesnofi platform (“Platform” or “We”), outlining your rights and obligations when using the Yesnofi decentralized binary prediction market platform. Please read these Terms carefully before using Yesnofi. If you do not agree with any part of these Terms, please do not use the Platform.
 
-***
+---
 
-### **1. 平台概述**
+### **1. Platform Overview**
 
-Yesnofi 是一个去中心化的预测市场平台，用户可以通过连接 Web3 钱包创建和参与预测问题。本平台基于区块链技术，提供无账户登录、公开透明的交易记录及公平的市场机制。
+Yesnofi is a decentralized prediction market platform where users can create and participate in prediction questions by connecting a Web3 wallet. The Platform is based on blockchain technology and offers account-less login, publicly transparent transaction records, and a fair market mechanism.
 
-***
+---
 
-### **2. 适用条件**
+### **2. Eligibility Requirements**
 
-* **法定年龄**：您必须年满 18 周岁或符合您所在司法辖区的法定年龄要求，且未被列入任何制裁名单（如OFAC清单），方可使用 Yesnofi。
-* **合规要求**：您同意在使用 Yesnofi 时遵守适用的法律法规，不得从事任何违法或违反本条款的行为。
-* **钱包连接**：使用本平台时，您需要连接兼容的 Web3 钱包（如 MetaMask）。您对钱包的安全性及私钥管理负全部责任。
-* **地理限制**：明确禁止受美国、中国大陆、新加坡等司法管辖区限制的用户访问，使用VPN规避视为重大违约。
-* **反洗钱承诺**：用户保证资金来源合法，不得利用平台进行洗钱、逃税或恐怖主义融资。
+* **Legal Age:** You must be at least 18 years old or meet the legal age requirements of your jurisdiction, and you must not be listed on any sanctions list (such as the OFAC list) to use Yesnofi.
+* **Compliance:** You agree to comply with all applicable laws and regulations when using Yesnofi and refrain from engaging in any illegal or Terms-violating activities.
+* **Wallet Connection:** When using the Platform, you are required to connect a compatible Web3 wallet (such as MetaMask). You bear full responsibility for the security of your wallet and the management of your private keys.
+* **Geographical Restrictions:** Access from jurisdictions such as the United States, mainland China, Singapore, and others where restricted is explicitly prohibited. Using a VPN to bypass these restrictions will be considered a material breach.
+* **Anti-Money Laundering Commitment:** The user guarantees that the funds are legally sourced and agrees not to use the Platform for money laundering, tax evasion, or terrorist financing.
 
-***
+---
 
-### **3. 无账户模式与身份验证**
+### **3. Account-less Model and Identity Verification**
 
-* 本平台不要求用户注册账号，仅通过钱包签名进行身份验证。
-* 由于去中心化特性，Yesnofi 不存储用户的个人信息或私钥，所有交易记录均在区块链上公开可查。
+* The Platform does not require users to register an account, as identity is verified solely through wallet signatures.
+* Due to its decentralized nature, Yesnofi does not store any personal information or private keys, and all transaction records are publicly available on the blockchain.
 
-***
+---
 
-### **4. 预测市场规则**
+### **4. Prediction Market Rules**
 
-#### **4.1 预测问题创建**
+#### **4.1 Creation of Prediction Questions**
 
-* 任何用户均可创建预测问题，但问题内容不得涉及违法、欺诈、误导或违反道德规范的主题。
-* 创建问题时，用户需提供明确的问题描述、投票规则及验证方式，以确保问题公平性和可验证性。
-* 创建问题需要消耗 Yesno 代币，具体消耗数量由平台规则设定。
+* Any user can create a prediction question; however, the content of the question must not involve illegal, fraudulent, misleading, or morally inappropriate topics.
+* When creating a question, the user must provide a clear description, specify the voting rules, and detail the verification method to ensure the fairness and verifiability of the question.
+* Creating a question requires spending Yesno tokens, with the specific amount determined by the Platform’s rules.
 
-#### **4.2 预测市场投注**
+#### **4.2 Market Betting**
 
-* 用户可以在平台上对某个问题的选项进行投注，投注金额以 USDT 计算。
-* 部分问题可能仅支持“赢者通吃”模式，即用户只能选择“是”进行投注。
-* 用户首次投注时需进行 USDT 代币授权，授权金额仅用于该问题的投注，不涉及其他用途。
+* Users can place bets on any option within a prediction question on the Platform, with the betting amount calculated in USDT.
+* Certain questions may operate under a “winner-takes-all” mode, meaning that users can only choose “Yes” when placing a bet.
+* Users are required to authorize USDT tokens for their first bet; the authorized amount is used only for that particular question and for no other purpose.
 
-#### **4.3 解决方案与争议机制**
+#### **4.3 Resolution and Dispute Mechanism**
 
-* 投票结束后，问题创建者可以提交解决方案，进入 12 小时的对抗期。
-* 任何用户若对答案有异议，可在对抗期内发起对抗，并质押 500 USDT 作为保证金。
-* 若争议进入仲裁阶段，平台社区及智囊团将进行最终裁决，裁决结果为最终结果。
+* After the voting ends, the question creator can submit a resolution, initiating a 12-hour challenge period.
+* If any user disputes the outcome, they may initiate a challenge within this period by staking 500 USDT as collateral.
+* Should the dispute escalate to arbitration, the final decision will be made by the Platform’s community and advisory panel, and the result of the arbitration shall be final.
 
-***
+---
 
-### **5. 交易与费用**
+### **5. Transactions and Fees**
 
-* 所有投注、创建问题及其他交易均通过智能合约在区块链上执行，平台不会直接处理资金。
-* 平台可能对创建问题、投注或争议机制收取一定比例的手续费，具体费率由平台规则决定并在官网公布。
-* 用户应自行承担使用平台时产生的所有网络费用（如 Gas 费）。
+* All bets, question creations, and other transactions are executed via smart contracts on the blockchain; the Platform does not handle funds directly.
+* The Platform may charge a certain percentage fee for creating questions, placing bets, or using the dispute mechanism. The specific fee rates are determined by the Platform’s rules and published on the official website.
+* Users are solely responsible for all network fees (e.g., Gas fees) incurred while using the Platform.
 
-***
+---
 
-### **6. 用户责任与风险声明**
+### **6. User Responsibility and Risk Disclosure**
 
-#### **6.1 资金与安全**
+#### **6.1 Funds and Security**
 
-* 用户需自行管理自己的钱包及私钥，若因钱包丢失、密钥泄露或恶意操作导致资金损失，Yesnofi 概不负责。
-* Yesnofi 不提供资产托管服务，所有资金交易均由智能合约执行，无法撤销或修改。
+* Users must manage their own wallets and private keys. Yesnofi is not responsible for any loss of funds resulting from lost wallets, leaked keys, or malicious operations.
+* Yesnofi does not provide custodial services; all fund transactions are executed by smart contracts and cannot be reversed or modified.
 
-#### **6.2 预测市场风险**
+#### **6.2 Prediction Market Risks**
 
-* 预测市场具有高风险性，所有投注结果均受市场波动影响，用户应自行评估风险。
-* Yesnofi 不对任何问题的最终结果、市场变化或用户收益作出任何保证。
+* Prediction markets carry inherent high risks, and all bet outcomes are subject to market fluctuations. Users should independently assess these risks.
+* Yesnofi does not guarantee the final outcome of any question, market changes, or user earnings.
 
-#### **6.3 法律合规**
+#### **6.3 Legal Compliance**
 
-* 用户应确保使用 Yesnofi 不违反所在国家或地区的法律法规。
-* 若用户所在地区禁止使用区块链预测市场，用户应自行停止使用 Yesnofi，平台不承担任何责任。
+* Users must ensure that their use of Yesnofi does not violate the laws and regulations of their respective countries or regions.
+* If the use of blockchain prediction markets is prohibited in the user's location, the user should cease using Yesnofi immediately, and the Platform will not be held liable.
 
-***
+---
 
-### **7. 平台免责条款**
+### **7. Platform Disclaimers**
 
-* Yesnofi 作为去中心化平台，不对任何用户行为、预测问题的公平性或市场结果承担责任。
-* 平台不对因黑客攻击、智能合约漏洞、区块链网络故障或其他不可抗力事件导致的损失负责。
-* Yesnofi 不对用户因使用本平台产生的任何损失（包括但不限于资金损失、数据丢失或交易失败）负责。
-* 平台不对合约代码的准确性、安全性作任何明示或暗示担保，用户使用即视为接受“现状”（As-Is）原则。
-* MetaMask等钱包服务、区块链网络故障或矿工操作引发的损失，平台无连带责任。
-* 用户生成内容（UGC）由创建者全权负责，平台保留删除违规问题的权利但无审查义务。
-* 在任何情况下，平台关联方的累计责任不超过用户最近12个月内支付手续费的10%。
+* As a decentralized Platform, Yesnofi is not responsible for any user actions, the fairness of prediction questions, or market outcomes.
+* The Platform is not liable for any losses resulting from hacking, smart contract vulnerabilities, blockchain network failures, or other force majeure events.
+* Yesnofi is not responsible for any losses incurred from using the Platform (including, but not limited to, financial losses, data loss, or failed transactions).
+* The Platform does not provide any express or implied warranties regarding the accuracy or security of the contract code; by using the Platform, users accept it on an “as-is” basis.
+* Losses arising from wallet services (e.g., MetaMask), blockchain network failures, or miner operations are not the responsibility of the Platform.
+* User-generated content (UGC) is solely the responsibility of its creators. While the Platform reserves the right to remove non-compliant questions, it is under no obligation to review them.
+* Under any circumstances, the cumulative liability of any affiliates of the Platform shall not exceed 10% of the fees paid by the user in the last 12 months.
 
-***
+---
 
-### **8. 终止与限制使用**
+### **8. Termination and Restriction of Use**
 
-* Yesnofi 有权在发现用户从事欺诈、滥用、违法或其他不当行为时，限制或终止用户的使用权限。
-* 用户可随时停止使用本平台，无需通知平台。
+* Yesnofi reserves the right to restrict or terminate a user’s access if it is determined that the user is engaged in fraud, abuse, illegal activities, or other misconduct.
+* Users may cease using the Platform at any time without notifying the Platform.
 
-***
+---
 
-### **9. 知识产权**
+### **9. Intellectual Property**
 
-* Yesnofi 平台的所有软件、代码、界面设计及内容均受开源协议或其他知识产权保护。
-* 用户可以在遵守开源协议的前提下使用、修改或贡献 Yesnofi 代码。
+* All software, code, interface design, and content on the Yesnofi Platform are protected by open-source licenses or other intellectual property rights.
+* Users may use, modify, or contribute to the Yesnofi code provided they comply with the applicable open-source licenses.
 
-***
+---
 
-### **10. 争议解决**
+### **10. Dispute Resolution**
 
-* 若用户与平台之间发生争议，应首先尝试通过社区沟通解决。
-* 若无法达成一致，争议将提交至 Yesnofi 智囊团或社区仲裁机制进行裁决，最终结果具有约束力。
+* In the event of a dispute between the user and the Platform, both parties should first attempt to resolve the issue through community communication.
+* If an agreement cannot be reached, the dispute shall be submitted to the Yesnofi advisory panel or community arbitration mechanism, whose decision will be final and binding.
 
-***
+---
 
-### **11. 重要风险提示**
+### **11. Important Risk Disclosure**
 
-* **加密货币风险**：USDT等数字资产价格波动可能导致投注价值剧烈变动，存在归零风险。
-* **技术风险**：智能合约虽经审计仍可能存在漏洞，黑客攻击或协议缺陷可导致资金永久损失。
-* **监管不确定性**：部分司法管辖区可能将预测市场视为赌博或金融工具，用户需自行承担合规责任。
-* **不可逆性**：区块链交易无法撤销，错误操作（如错误地址转账）造成的损失不可恢复。
+* **Cryptocurrency Risk:** The value of digital assets such as USDT may fluctuate dramatically, potentially leading to a significant change in bet values or a total loss.
+* **Technical Risk:** Despite audits, smart contracts may still contain vulnerabilities. Hacking or protocol flaws could result in irreversible fund losses.
+* **Regulatory Uncertainty:** Some jurisdictions may consider prediction markets as gambling or financial instruments. Users are responsible for their own compliance obligations.
+* **Irreversibility:** Blockchain transactions cannot be undone. Any losses resulting from operational errors (e.g., transferring funds to the wrong address) are irreversible.
 
-***
+---
 
-### **12. 合规增强条款**
+### **12. Enhanced Compliance Provisions**
 
-* **税收义务**：用户需自行申报投注收益产生的税务责任，平台不提供税务文件或指导。
-* **执法配合**：尽管平台无用户数据，但将响应合法司法管辖区的链上数据分析请求。
-* **代币性质声明**：YESNO代币仅具治理功能，不构成证券、股权或投资合同。
+* **Tax Obligations:** Users are responsible for reporting any taxes arising from their betting earnings; the Platform does not provide tax documents or guidance.
+* **Law Enforcement Cooperation:** Although the Platform does not store user data, it will respond to lawful requests for on-chain data analysis from relevant jurisdictions.
+* **Token Nature Statement:** The YESNO token is intended solely for governance purposes and does not constitute a security, equity, or investment contract.
 
-***
+---
 
-### **13. 协议更新与终止**
+### **13. Amendments and Termination of the Agreement**
 
-* **单方修改权**：Yesnofi 保留随时修改本条款的权利，更新后的条款将在官网发布，继续使用 Yesnofi 视为接受最新的使用条款。
-* **服务中断权**：因监管压力或安全事件，平台可永久终止协议，用户需在30天内提取资产。
-* **生存条款**：终止后，免责声明、争议解决等条款持续有效。
+* **Right to Unilaterally Modify:** Yesnofi reserves the right to modify these Terms at any time. The updated Terms will be posted on the official website, and continued use of Yesnofi will be deemed acceptance of the latest Terms.
+* **Right to Interrupt Services:** Due to regulatory pressure or security incidents, the Platform may permanently terminate the agreement. Users will have 30 days to withdraw their assets.
+* **Survival Clause:** The disclaimer, dispute resolution, and other provisions will remain in effect even after termination.
 
-***
+---
 
-### **14. 联系我们**
+### **14. Contact Us**
 
-* [官方网站](https://yesno.fi)
-* 官方社区
-* 开源代码
+* [Official Website](https://yesno.fi)
+* Official Community
+* Open-source Code Repository
 
-如果您对本使用条款有任何疑问，请通过官方渠道与我们联系。
+If you have any questions regarding these Terms of Use, please contact us through the official channels.
 
-**感谢您使用 Yesnofi，祝您预测愉快！**
+**Thank you for using Yesnofi, and happy predicting!**
